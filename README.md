@@ -1,4 +1,4 @@
-# graph-algorithm-implementation
+# Graph Algorithm Implementation
 Developed and implemented several graph algorithms to analyse graph properties and solve common problems.
 
 ## Description:
